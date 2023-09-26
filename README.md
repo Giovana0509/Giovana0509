@@ -1,5 +1,5 @@
 Hi guys, my name is Giovana!
-I´m 23 years old, i have a degree in advertising and marekting :)
+I´m 23 years old, i have a degree in advertising and marekting :) 
 
 <!--
 **Giovana0509/Giovana0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
